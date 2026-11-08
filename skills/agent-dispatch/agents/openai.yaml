@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Dispatch"
+  short_description: "Draft work orders with scope and acceptance checks"
+  default_prompt: "Use $agent-dispatch to turn the selected task into one self-contained work order with acceptance criteria and permission boundaries."

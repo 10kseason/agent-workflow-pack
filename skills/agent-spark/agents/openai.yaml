@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Spark"
+  short_description: "Turn an idea into a hypothesis and a small test"
+  default_prompt: "Use $agent-spark to propose one promising hypothesis and a small test with a baseline, outcome criteria, and a stop condition."

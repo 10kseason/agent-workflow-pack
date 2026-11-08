@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Connection"
+  short_description: "Map relationships with sources and evidence levels"
+  default_prompt: "Use $agent-connection to map the strongest relationships in the supplied material, with evidence levels and missing checks."
